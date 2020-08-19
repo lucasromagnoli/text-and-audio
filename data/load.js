@@ -14,8 +14,17 @@ TextAndAudio.Manage = (function () {
                     "They lived on a remote farm in the west of England, and what a pair of fools they were! Which of them was the most foolish? Listen to the story and decide for yourself."
                 ],
                 audio: "jackhannafordpart1.mp3"
+            },
+            {
+                title: " Jack Hannaford Part 2",
+                text: [
+                    "In those days, there also lived an old soldier called Jack Hannaford. His coat was old and he was poor, but nobody thought that Jack Hannaford was stupid. He was sly like a fox. When he left the army, he walked all around the country, looking for ways to play his tricks.",
+                    "After he had traveled for some time, He knocked on the door of the house, and a moment later, the wife answered. She looked him up and down, quite astonished, because few strangers were able  to make the difficult journey to their home. “Where did you come from?” she asked."
+                ],
+                audio: "jackhannafordpart2.mp3"
             }
         ]
+
         console.log("Manage object created.")
     }
 
