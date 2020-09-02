@@ -22,6 +22,14 @@ TextAndAudio.Manage = (function () {
                     "After he had traveled for some time, he came across the farm belonging to the pair. He knocked on the door of the house, and a moment later, the wife answered. She looked him up and down, quite astonished, because few strangers were able  to make the difficult journey to their home. “Where did you come from?” she asked."
                 ],
                 audio: "jackhannafordpart2.mp3"
+            },
+            {
+                title: " Jack Hannaford Part 3",
+                text: [
+                    "Jack looked up at the pale blue sky, and he said, “I came from Heaven.” “My goodness!”, she said. “Did you see my husband there?” (The farmer’s wife was talking about her first husband, the man who had died).",
+                    "Oh yes, I got to know him well when I was staying in Heaven,” said Jack. “And how is he doing?”, asked the woman. “He is fine,” replied the old soldier."
+                ],
+                audio: "jackhannafordpart3.mp3"
             }
         ]
 
