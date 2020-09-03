@@ -4,7 +4,7 @@ var TextAndAudio = TextAndAudio || {};
 TextAndAudio.Manage = (function () {
     function Manage() {
         this.config = {
-            defaultVolume: 0.15
+            defaultVolume: 0.35
         }
         this.data = [
             {
@@ -26,10 +26,16 @@ TextAndAudio.Manage = (function () {
             {
                 title: " Jack Hannaford Part 3",
                 text: [
-                    "Jack looked up at the pale blue sky, and he said, “I came from Heaven.” “My goodness!”, she said. “Did you see my husband there?” (The farmer’s wife was talking about her first husband, the man who had died).",
-                    "Oh yes, I got to know him well when I was staying in Heaven,” said Jack. “And how is he doing?”, asked the woman. “He is fine,” replied the old soldier."
+                    "Jack looked up at the pale blue sky, and he said, “I came from Heaven.” “My goodness!”, she said. “Did you see my husband there?” (The farmer’s wife was talking about her first husband, the man who had died). Oh yes, I got to know him well when I was staying in Heaven,” said Jack. “And how is he doing?”, asked the woman. “He is fine,” replied the old soldier."
                 ],
                 audio: "jackhannafordpart3.mp3"
+            },
+            {
+                title: " Jack Hannaford Part 4",
+                text: [
+                    "“He works hard sewing and mending clothes for the saints and angels, but even so, he sometimes doesn’t have enough money to eat.” “And did he send me a message?”, she asked. “Yes, he did! That is why I’ve come here. He asked me to bring back some money for him, so that he can spend his days in paradise more comfortably.” On hearing this, the poor woman’s heart almost broke with pity."
+                ],
+                audio: "jackhannafordpart4.mp3"
             }
         ]
 
