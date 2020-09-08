@@ -36,6 +36,13 @@ TextAndAudio.Manage = (function () {
                     "“He works hard sewing and mending clothes for the saints and angels, but even so, he sometimes doesn’t have enough money to eat.” “And did he send me a message?”, she asked. “Yes, he did! That is why I’ve come here. He asked me to bring back some money for him, so that he can spend his days in paradise more comfortably.” On hearing this, the poor woman’s heart almost broke with pity."
                 ],
                 audio: "jackhannafordpart4.mp3"
+            },
+            {
+                title: " Jack Hannaford Part 5",
+                text: [
+                    "“I’ll give him anything he wants! He’s a good man, God bless him,” she said. Then she went to the chimney where the couple’s savings were kept hidden. She took out two pieces of gold and five pieces of silver, which in those days was a lot of money. She handed everything over to the old soldier and told him to hurry up and give it to her first husband. “I will,” Jack told the woman, “as soon as I return to Heaven.”"
+                ],
+                audio: "jackhannafordpart5.mp3"
             }
         ]
 
