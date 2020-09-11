@@ -43,6 +43,14 @@ TextAndAudio.Manage = (function () {
                     "“I’ll give him anything he wants! He’s a good man, God bless him,” she said. Then she went to the chimney where the couple’s savings were kept hidden. She took out two pieces of gold and five pieces of silver, which in those days was a lot of money. She handed everything over to the old soldier and told him to hurry up and give it to her first husband. “I will,” Jack told the woman, “as soon as I return to Heaven.”"
                 ],
                 audio: "jackhannafordpart5.mp3"
+            },
+            {
+                title: " Jack Hannaford Part 6",
+                text: [
+                    "When the farmer came back, his wife told him all about how a messenger had come from Heaven. She said that the man asked for money for her first husband, who was living and working in Heaven, but who was poor. “You are a foolish woman!” shouted the farmer.",
+                    "“How could you believe such a silly story?” “Well, you are even more foolish,” said the woman, “because you showed me where the money was hidden.” The husband did not agree with what she said, but he did not stay to argue. He hurried off on his horse to try to find the old soldier before he got too far away."
+                ],
+                audio: "jackhannafordpart6.mp3"
             }
         ]
 
