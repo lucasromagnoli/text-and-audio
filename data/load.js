@@ -51,6 +51,13 @@ TextAndAudio.Manage = (function () {
                     "“How could you believe such a silly story?” “Well, you are even more foolish,” said the woman, “because you showed me where the money was hidden.” The husband did not agree with what she said, but he did not stay to argue. He hurried off on his horse to try to find the old soldier before he got too far away."
                 ],
                 audio: "jackhannafordpart6.mp3"
+            },
+            {
+                title: " Jack Hannaford Part 7",
+                text: [
+                    "“Jack Hannaford heard the sound of the horse behind him. He knew that the farmer was coming for him and for the money. Quickly, he came up with a plan. He knelt by the side of the road, covered his eyes with one hand, and pointed up to the sky with the other. The farmer soon reached him and asked: “What are you doing here by the side of the road? Why are you protecting your eyes and pointing up to the sky?” “It is amazing! It is God’s work!” shouted the man. “I see a wonderful thing!” “What kind of wonderful thing?” asked the farmer. “A man is walking straight up to Heaven on a rainbow, just as if it were a road.“"
+                ],
+                audio: "jackhannafordpart7.mp3"
             }
         ]
 
