@@ -58,6 +58,13 @@ TextAndAudio.Manage = (function () {
                     "“Jack Hannaford heard the sound of the horse behind him. He knew that the farmer was coming for him and for the money. Quickly, he came up with a plan. He knelt by the side of the road, covered his eyes with one hand, and pointed up to the sky with the other. The farmer soon reached him and asked: “What are you doing here by the side of the road? Why are you protecting your eyes and pointing up to the sky?” “It is amazing! It is God’s work!” shouted the man. “I see a wonderful thing!” “What kind of wonderful thing?” asked the farmer. “A man is walking straight up to Heaven on a rainbow, just as if it were a road.“"
                 ],
                 audio: "jackhannafordpart7.mp3"
+            },
+            {
+                title: " Jack Hannaford Part 8",
+                text: [
+                    "The farmer looked at the sky, but he could not see the amazing rainbow or the man walking on it. “Here,” said the soldier, “kneel down by the side of the road and look up at the sky like I’m doing.” “I will if you’ll hold my horse,” said the farmer, and he jumped down from his horse. As soon as the farmer knelt down, Jack Hannaford jumped onto the horse and escaped! Now, who do you think was more foolish, the farmer or his wife?"
+                ],
+                audio: "jackhannafordpart8.mp3"
             }
         ]
 
