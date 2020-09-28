@@ -65,6 +65,13 @@ TextAndAudio.Manage = (function () {
                     "The farmer looked at the sky, but he could not see the amazing rainbow or the man walking on it. “Here,” said the soldier, “kneel down by the side of the road and look up at the sky like I’m doing.” “I will if you’ll hold my horse,” said the farmer, and he jumped down from his horse. As soon as the farmer knelt down, Jack Hannaford jumped onto the horse and escaped! Now, who do you think was more foolish, the farmer or his wife?"
                 ],
                 audio: "jackhannafordpart8.mp3"
+            },
+            {
+                title: "The Endless Tale Part 1",
+                text: [
+                    "In the Far East there was a Great King who had no work to do. Every day, andall day long, he sat on soft cushions and listened to stories. And no matterwhat the story was about, he never grew tired of hearing it, even thoughmany of the stories took hours to complete. “There is only one fault with yourstory,” he often said, “it is too short.” All the storytellers in the world wereinvited to his palace; and some of them told stories that were very longindeed."
+                ],
+                audio: "theendlesstalepart1.mp3"
             }
         ]
 
