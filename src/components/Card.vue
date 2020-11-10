@@ -1,16 +1,33 @@
-*, html, body {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
+<template>
+    <div class="card-container">
+    <h3>{{card.title}}</h3>
+    <div class="text-container">
+        <p v-for="(p,index) in card.text" :key="index">{{p}}</p>
+    </div>
 
-body {
-    background-color: #f3f3f3;
-}
+    <div class="audio-container">
+        <audio controls>
+        <source :src="getAudioSrc(`${card.audio}`)" type="audio/mp3">
+            Your browser does not support the audio element.
+        </audio>
+        </div>
+    </div>
+</template>
 
-#card-root {
-    padding-top: 50px;
+<script>
+
+export default {
+  name: 'Card',
+  props: ['card'],
+  methods: {
+      getAudioSrc(audio) {
+          return require(`../assets/audios/${audio}`);
+      }
+  }
 }
+</script>
+
+<style scoped>
 
 .card-container {
     width: 600px;
@@ -25,7 +42,6 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.06),0 2px 5px 0 rgba(0,0,0,.2);
-
 }
 
 .card-container h3 {
@@ -42,12 +58,7 @@ body {
     line-height: 1.3em;
 }
 
-.card-container .text-container p > spotlight {
-    color: #27a5be;
-}
-
 .card-container .audio-container {
-    /* background-color: tomato; */
     display: flex;
     justify-content: center;
     width: 100%;
@@ -58,3 +69,4 @@ body {
     margin-top: 25px;
     padding-right: 15px;
 }
+</style>
